@@ -1,0 +1,13 @@
+lower bound and upper bound
+lower bound and upper bound same hai
+but lower bound greater than equal to and upper bound greater than bas and nothing 
+so lower bound is graeter than equal to and upper bound mein sirf greater than 
+
+
+
+Lower bound and upper bound index return karta hai 
+and jis number pe tum upper bound ya lower bound laga rahe ho wo 
+agar wo number na mila to then last element iterator milta hai
+
+lower_bound(v.begin(), v.end(), 30)
+upper_bound(v.begin(),v.end(),30)
